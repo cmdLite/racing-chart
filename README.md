@@ -14,9 +14,4 @@
    ```sh
    npm start
    ```  
-
-## 🏆 Or Take the Fast Lane  
-Skip the setup and go straight to the action! Just visit:  
-🔗 [Live on Vercel](https://simple-racing-chart.vercel.app/)  
-
 Enjoy the Reviewing! 🚀
